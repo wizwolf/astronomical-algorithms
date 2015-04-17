@@ -2,7 +2,7 @@
 作者：Jean Meeus
 
 ## 目录
-- 第1章 [注释与提示](content/part01)
+- 第1章 [注释与提示](./content/part01)
 - 第2章 <a href=02.htm>关于精度</a><br>
 - 第3章 <a href=03.htm>插值</a><br>
 - 第 4章 <a href=04.htm>曲线拟合</a><br>

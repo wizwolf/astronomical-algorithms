@@ -1,4 +1,5 @@
-# 《Astronomical Algorithms, Second Edition》天文算法 第二版 中文翻译
+# 《Astronomical Algorithms, Second Edition》
+# 《天文算法》第二版 中文翻译
 作者：Jean Meeus
 
 ## 目录
